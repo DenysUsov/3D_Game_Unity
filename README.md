@@ -1,4 +1,4 @@
-Version 1.0 of the 3D first person view game with:
+Version 1.0 of the 3D first person view game for Windows desktop with:
 
 original photo textures,
 3 types of enemies:
